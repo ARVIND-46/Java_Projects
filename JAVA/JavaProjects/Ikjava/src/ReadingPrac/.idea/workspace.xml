@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdfad46c-68eb-4bcc-8ee2-cd39295c0c04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/Ztest/build/web/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/Ztest/build/web/META-INF/context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/Ztest/build/web/WEB-INF/classes/com/servlet/SecondServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/Ztest/build/web/WEB-INF/classes/com/servlet/SecondServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/Ztest/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/Ztest/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/regist-jsp-servlet-jdbc-ex/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/regist-jsp-servlet-jdbc-ex/nbproject/ant-deploy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/regist-jsp-servlet-jdbc-ex/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/regist-jsp-servlet-jdbc-ex/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/regist-jsp-servlet-jdbc-ex/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/regist-jsp-servlet-jdbc-ex/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/regist-jsp-servlet-jdbc-ex/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/regist-jsp-servlet-jdbc-ex/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/youtube/build/web/WEB-INF/classes/com/practice/SuccessServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/youtube/build/web/WEB-INF/classes/com/practice/SuccessServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/youtube/dist/youtube.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/youtube/dist/youtube.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/youtube/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/youtube/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/youtube/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NetBeansProjects_bkp/youtube/nbproject/private/private.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2exC1MxfyOGiq2qzuoRTSnJoZFG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Library",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/10690937/Downloads/util.com/Repo/Core Java/Java_Projects/JAVA/JavaProjects/Ikjava"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-16.0.2-corretto-16.0.2-249ae16d76d6-d70a60f0" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdfad46c-68eb-4bcc-8ee2-cd39295c0c04" name="Changes" comment="" />
+      <created>1712836625644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712836625644</updated>
+    </task>
+    <servers />
+  </component>
+</project>
